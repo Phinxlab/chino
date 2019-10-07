@@ -1,6 +1,6 @@
 {
     "name": "@phinxlab/chino",
-    "version": "0.3.10",
+    "version": "0.3.11",
     "description": "CHINO ORM FRAMEWORK",
     "main": "main.js",
     "scripts": {
